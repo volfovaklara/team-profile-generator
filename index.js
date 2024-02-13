@@ -34,7 +34,7 @@ const menuQuestions = [
     {
         type: 'list',
         message: "What next?",
-        choices: ['Add an engineer?', 'Add an intern?', 'Finish building the team.'],
+        choices: ['Add an engineer.', 'Add an intern.', 'Finish building the team.'],
         name: 'menu'
     }
 ];
